@@ -195,6 +195,7 @@ main{
   margin-left: 240px;
   margin-right: 240px;
   margin-bottom: 240px;
+  border-radius: 10px;
 }
 .footer-para{
   text-align: center;
